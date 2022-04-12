@@ -1,4 +1,4 @@
--- Manifest
+-- TORTONIGHT
 resource_manifest_version 'f15e72ec-3972-4fe4-9c7d-afc5394ae207'
 
 files {
@@ -6,10 +6,10 @@ files {
 	'data/carvariations.meta',
 	'data/handling.meta',
 	'data/vehicles.meta',
-    'data/dlctext.meta',
-    --'data/contentunlocks.meta',
-    'data/ai/vehiclelayouts.meta',
-    --'data/shop_vehicle.meta',
+        'data/dlctext.meta',
+        --'data/contentunlocks.meta',
+        'data/ai/vehiclelayouts.meta',
+        --'data/shop_vehicle.meta',
 }
 
 
