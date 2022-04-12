@@ -1,0 +1,1 @@
+# FiveM-Addon-Vehicle-Template
